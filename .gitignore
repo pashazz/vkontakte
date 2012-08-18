@@ -1,0 +1,6 @@
+dist
+MANIFEST
+*.pyc
+vkontakte.egg-info
+__pycache__
+*~
